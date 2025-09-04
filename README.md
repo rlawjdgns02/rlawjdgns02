@@ -1,6 +1,7 @@
-# 안녕하세요! 👋 저는 김정훈입니다
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&letterSpacing=0.2rem&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hello!+I'm+Kimi)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&letterSpacing=0.2rem&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hello!+I'm+Kimi" alt="Typing SVG" />
+  </a>
 </div>
 
 ## 🎯 About Me
