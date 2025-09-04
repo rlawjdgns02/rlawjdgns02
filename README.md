@@ -41,7 +41,7 @@
 </div>
 
 ## Awards
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rlawjdgns02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Current Focus
 - 🔬 **Tiny Object Detection** 연구
