@@ -1,8 +1,6 @@
 # 안녕하세요! 👋 저는 김정훈입니다
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=120&text=HELLO%20I'm%20KIMI&animation=scaleIn&fontColor=ffffff&fontSize=40" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/Hello! I'm Kimi=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 3학년**
