@@ -21,14 +21,15 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Solved.ac
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlawjdgns02&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kinddevil02)](https://solved.ac/kinddevil02)
-
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=rlawjdgns02&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/></td>
+<td><a href="https://solved.ac/kinddevil02"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kinddevil02"/></a></td>
+</tr>
+</table>
 </div>
 
 ## 🌟 Current Focus
@@ -41,4 +42,5 @@
 
 ---
 <div align="center">
+  
 </div>
