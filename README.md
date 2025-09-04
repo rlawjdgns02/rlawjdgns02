@@ -1,6 +1,6 @@
 # 안녕하세요! 👋 저는 김정훈입니다
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello! I'm Kimi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 3학년**
