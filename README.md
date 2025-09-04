@@ -9,6 +9,14 @@
 - 💼 **AI 모델 엔지니어**를 꿈꾸고 있습니다
 - 🔍 **Computer Vision**, 특히 **TOD**(Tiny Object Detection)에 관심이 많아요!
 
+## 💼 Experience
+- 한국항공대학교 공학계열 (2021.03~2021.12)
+- 한국항공대학교 소프트웨어학과 (2024.03~)
+- KAU 코알라 15기 알고리즘 기초 수료 
+- KAU 코알라 17기 알고리즘 심화 수료
+- UMC 7기, 8기 스프링 챌린저 수료
+- 한국항공대학교 QAI LAB 학부연구생
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -31,6 +39,9 @@
 </tr>
 </table>
 </div>
+
+## Awards
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Current Focus
 - 🔬 **Tiny Object Detection** 연구
