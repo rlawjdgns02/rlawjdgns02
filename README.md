@@ -1,13 +1,13 @@
 # 안녕하세요! 👋 저는 김정훈입니다
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=HELLO%20I'm%20KIMI&animation=scaleIn&fontColor=58a6ff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=238636&height=120&text=HELLO%20I'm%20KIMI&animation=scaleIn&fontColor=ffffff&fontSize=40" />
 </div>
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 3학년**
 - 💼 **AI 엔지니어**를 꿈꾸고 있습니다
-- 🔍 **Computer Vision**, 특히 **TOD (Tiny Object Detection)**에 관심이 많아요!
+- 🔍 **Computer Vision**, 특히 **TOD**(Tiny Object Detection)에 관심이 많아요!
 - 📚 항상 새로운 기술을 배우고 성장하려고 노력합니다
 
 ## 🛠️ Tech Stack
@@ -27,8 +27,6 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlawjdgns02&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjdgns02&layout=compact&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
 
