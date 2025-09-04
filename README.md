@@ -6,9 +6,8 @@
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 3학년**
-- 💼 **AI 엔지니어**를 꿈꾸고 있습니다
+- 💼 **AI 모델 엔지니어**를 꿈꾸고 있습니다
 - 🔍 **Computer Vision**, 특히 **TOD**(Tiny Object Detection)에 관심이 많아요!
-- 📚 항상 새로운 기술을 배우고 성장하려고 노력합니다
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +33,9 @@
 - 🔬 **Tiny Object Detection** 연구
 - 📈 **딥러닝 모델 최적화**
 - 🫀 **맥파를 통한 진단** 연구
+
+## 🎯 Future Focus
+- 🚀 **미사일/드론 최적 낙탄/충돌 지점** 연구
 
 ---
 <div align="center">
