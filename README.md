@@ -27,6 +27,8 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlawjdgns02&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kinddevil02)](https://solved.ac/kinddevil02)
+
 </div>
 
 ## 🌟 Current Focus
