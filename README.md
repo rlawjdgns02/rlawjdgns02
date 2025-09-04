@@ -17,6 +17,14 @@
 - UMC 7기, 8기 스프링 챌린저 수료
 - 한국항공대학교 QAI LAB 학부연구생
 
+## 🌟 Current Focus
+- 🔬 **Tiny Object Detection** 연구
+- 📈 **딥러닝 모델 최적화**
+- 🫀 **맥파를 통한 진단** 연구
+
+## 🎯 Future Focus
+- 🚀 **미사일/드론 최적 낙탄/충돌 지점** 연구
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -38,20 +46,4 @@
 <td><a href="https://solved.ac/kinddevil02"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kinddevil02"/></a></td>
 </tr>
 </table>
-</div>
-
-## Awards
-[![trophy](https://github-profile-trophy.vercel.app/?username=rlawjdgns02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🌟 Current Focus
-- 🔬 **Tiny Object Detection** 연구
-- 📈 **딥러닝 모델 최적화**
-- 🫀 **맥파를 통한 진단** 연구
-
-## 🎯 Future Focus
-- 🚀 **미사일/드론 최적 낙탄/충돌 지점** 연구
-
----
-<div align="center">
-  
 </div>
