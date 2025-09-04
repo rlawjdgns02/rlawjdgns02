@@ -1,22 +1,45 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2800&height=120&text=HELLO%20I'm%20KIMI&animation=scaleIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AI Engineer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 저는 AI 엔지니어를 꿈꾸는 한국항공대학교 소프트웨어학과 3학년 김정훈입니다.</li></li><li> CV, 특히 TOD(Tiny Object Detection)에 관심이 많아요! </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
-          <br/></div>
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=rlawjdgns02&custom_title=rlawjdgns02's Github Stat&bg_color=180,000000,&title_color=89c379&text_color=89c379"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjdgns02&layout=compact&bg_color=180,000000,&title_color=89c379&text_color=89c379"
-           /> </div> 
-    </div>
-    
+# 안녕하세요! 👋 저는 김정훈입니다
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&text=HELLO%20I'm%20KIMI&animation=scaleIn&fontColor=58a6ff&fontSize=40" />
+</div>
+
+## 🎯 About Me
+- 🎓 **한국항공대학교 소프트웨어학과 3학년**
+- 💼 **AI 엔지니어**를 꿈꾸고 있습니다
+- 🔍 **Computer Vision**, 특히 **TOD (Tiny Object Detection)**에 관심이 많아요!
+- 📚 항상 새로운 기술을 배우고 성장하려고 노력합니다
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlawjdgns02&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawjdgns02&layout=compact&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+
+</div>
+
+## 🌟 Current Focus
+- 🔬 **Tiny Object Detection** 연구
+- 📈 **딥러닝 모델 최적화**
+- 🚀 **AI 프로젝트** 개발
+
+---
+<div align="center">
+  
+[![Hits](https://hits.seeyoufriends.today/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawjdgns02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufriends.today)
+
+</div>
