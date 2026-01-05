@@ -20,7 +20,6 @@
 ## 🌟 Current Focus
 - 🔬 **Tiny Object Detection** 연구
 - 📈 **딥러닝 모델 최적화**
-- 🫀 **맥파를 통한 한의학 변증 진단** 연구
 
 ## 🎯 Future Focus
 - 🚀 **미사일/드론 최적 낙탄/충돌 지점** 연구
