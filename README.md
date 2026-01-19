@@ -5,7 +5,7 @@
 </div>
 
 ## 🎯 About Me
-- 🎓 **한국항공대학교 소프트웨어학과 3학년**
+- 🎓 **한국항공대학교 소프트웨어학과 4학년**
 - 💼 **AI 모델 엔지니어**를 꿈꾸고 있습니다
 - 🔍 **Computer Vision**, 특히 **TOD**(Tiny Object Detection)에 관심이 많아요!
 
