@@ -6,8 +6,9 @@
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 4학년**
-- 💼 **AI 모델 엔지니어**를 꿈꾸고 있습니다
-- 🔍 **Computer Vision**, 특히 **TOD**(Tiny Object Detection)에 관심이 많아요!
+- 💼 **Computer Vision Researcher**
+- 🔍 **Object Detection in Aerial/Satellite Imagery**
+- 🧊 **3D Vision** — next frontier
 
 ## 💼 Experience
 - 한국항공대학교 공학계열 (2021.03~2021.12)
@@ -17,12 +18,9 @@
 - 한국항공대학교 QAI LAB 학부연구생
 
 ## 🌟 Current Focus
-- 🔬 **Tiny Object Detection In Satellite Image** 연구
-- ⚛️ **양자회로를 활용한 Vision 태스크(Anomaly Detection) 적용** 연구
-- ✈️ **항공 분야 AI 모델의 신뢰성 평가 및 검증** 연구
-
-## 🎯 Future Focus
-- 🚀 **미사일/드론 최적 낙탄/충돌 지점** 연구
+- 🔬 **Refine Localization In Satellite Image**
+- ⚛️ **Quantum Circuit-based Vision (Anomaly Detection)**
+- ✈️ **Reliability Evaluation of AI Models for Aviation Domain**
 
 ## 🛠️ Tech Stack
 
