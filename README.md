@@ -28,18 +28,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-</div>
-
-## 📊 GitHub Stats & Solved.ac
-
-<div align="center">
-<table>
-<tr>
-<td><a href="https://solved.ac/kinddevil02"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kinddevil02"/></a></td>
-</tr>
-</table>
 </div>
