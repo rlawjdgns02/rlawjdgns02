@@ -17,7 +17,7 @@
 - UMC 7기, 8기 SpringBoot 수료
 - 한국항공대학교 QAI LAB 학부연구생
 
-## 🌟 Current Focus
+## 🌟 Current Research
 - 🔬 **Refine Localization In Satellite Image**
 - ⚛️ **Quantum Circuit-based Vision (Anomaly Detection)**
 - ✈️ **Reliability Evaluation of AI Models for Aviation Domain**
