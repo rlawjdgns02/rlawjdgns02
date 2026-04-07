@@ -8,7 +8,6 @@
 - 🎓 **한국항공대학교 소프트웨어학과 4학년**
 - 💼 **Computer Vision Researcher**
 - 🔍 **Object Detection in Aerial/Satellite Imagery**
-- 🧊 **3D Vision** — next frontier
 
 ## 💼 Experience
 - 한국항공대학교 공학계열 (2021.03~2021.12)
