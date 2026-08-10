@@ -7,7 +7,6 @@
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 4학년**
 - 💼 **Computer Vision Researcher**
-- 🔍 **Object Detection in Aerial/Satellite Imagery**
 
 ## 💼 Experience
 - 한국항공대학교 공학계열 (2021.03~2021.12)
@@ -15,10 +14,10 @@
 - KAU 코알라 15기 알고리즘 기초 / 17기 알고리즘 심화 수료 
 - UMC 7기, 8기 SpringBoot 수료
 - 한국항공대학교 QAI LAB 학부연구생
+- 한국전자통신연구원(ETRI) 연구연수생 - 자율비행연구실 (Autonomous UAV Section)
 
 ## 🌟 Current Research
 - 🔬 **Refine Localization In Satellite Image**
-- ⚛️ **Quantum Circuit-based Vision (Anomaly Detection)**
 - ✈️ **Reliability Evaluation of AI Models for Aviation Domain**
 
 ## 🛠️ Tech Stack
