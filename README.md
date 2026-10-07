@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 4학년**
-- 💼 **Computer Vision Researcher**
+- 🔬 **SKKU Midas Lab Intern**
 
 ## 💼 Experience
 - 한국항공대학교 공학계열 (2021.03~2021.12)
