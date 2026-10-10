@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 - 🎓 **한국항공대학교 소프트웨어학과 4학년**
-- 🔬 **SKKU Midas Lab Intern**
+- 🔬 **SKKU MIDAS Lab Intern**
 
 ## 💼 Experience
 - 한국항공대학교 공학계열 (2021.03~2021.12)
@@ -16,7 +16,7 @@
 - 한국전자통신연구원(ETRI) 연구연수생 - 자율비행연구실 (Autonomous UAV Section)
 
 ## 🌟 Current Research
-- 🔬 **TBD**
+- 🔬 **Multimodal Representation Learning**
 
 ## 🛠️ Tech Stack
 
